@@ -1,0 +1,5 @@
+LIBRARY
+	EXPORTS
+	Agent_OnLoad
+	Agent_OnAttach
+	Agent_OnUnload
